@@ -1,9 +1,10 @@
-📸 Preview
+## 📸 Preview
 
 <img width="947" height="473" alt="LandingPage" src="https://github.com/user-attachments/assets/397883e5-1599-4c82-84cb-299b4f88351b" />
 
+---
 
-🛠️ Built With
+## 🛠️ Built With
 
 HTML5 – Semantic and accessible markup
 
@@ -11,7 +12,9 @@ CSS3 – Modern styling and responsive layout
 
 JavaScript – Interactive elements and basic functionality
 
-✨ Features
+---
+
+## ✨ Features
 
 Fully responsive design (mobile, tablet & desktop)
 
@@ -23,7 +26,9 @@ Optimized layout for better user experience
 
 Well-structured and readable code
 
-📱 Responsiveness
+---
+
+## 📱 Responsiveness
 
 The landing page adapts seamlessly to different screen sizes using:
 
@@ -33,7 +38,9 @@ Media queries
 
 Mobile-first design approach
 
-📂 Project Structure
+---
+
+## 📂 Project Structure
 responsive-landing-page/
 │
 ├── index.html
@@ -44,7 +51,9 @@ responsive-landing-page/
 └── assets/
     └── images/
 
-⚙️ How to Use
+---
+
+## ⚙️ How to Use
 
 Clone the repository:
 
@@ -58,7 +67,9 @@ cd responsive-landing-page
 
 Open index.html in your browser.
 
-📌 Purpose of the Project
+---
+
+## 📌 Purpose of the Project
 
 This project was created to:
 
@@ -68,13 +79,16 @@ Improve frontend development skills
 
 Demonstrate layout and UI design abilities
 
-🤝 Contributing
+---
+
+## 🤝 Contributing
 
 Contributions are welcome!
 Feel free to fork the repository and submit a pull request.
 
+---
 
-👤 Author
+## 👤 Author
 
 Vinny
 Frontend Developer
